@@ -38,5 +38,5 @@ Passionate about crafting interactive web applications, high-performance user in
 ---
 
 ### 📬 Connect With Me
-- 💼 **LinkedIn**: [Add your LinkedIn profile link here]
+- 💼 **LinkedIn**: [www.linkedin.com/in/muqeet-ul-hassan-30904241b]
 - 🌐 **Portfolio**: [Add your portfolio link here]
